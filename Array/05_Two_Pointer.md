@@ -1,6 +1,3 @@
-Here’s the ready‑to‑copy content for `Array/05_Two_Pointer.md` — clean, simple, and focused on what matters for interviews.
-
-```markdown
 > 🔢 **Pattern: Array – Two Pointer**  
 > Same direction (remove duplicates, move zeros), opposite direction (two sum, three sum, container with most water).
 
@@ -163,4 +160,3 @@ int maxArea(vector<int>& height) {
 - For Container With Most Water:
   - Move the pointer with smaller height.  
   - Greedy: we never lose the optimal solution by moving the smaller one.
-```
