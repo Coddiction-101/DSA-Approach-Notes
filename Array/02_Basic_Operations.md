@@ -96,20 +96,3 @@ Great! Since the repo is ready, let’s now fill `Array/02_Basic_Operations.md` 
 3. Paste the content and commit.
 
 ***
-
-### 🚀 Next Step
-
-Now that this is done:
-
-1. Let me know:  
-   > “Done, Array/02_Basic_Operations.md is updated.”  
-
-2. Then we’ll:
-   - Go back to **Best Time to Buy and Sell Stock II (LeetCode 122)**  
-   - Solve it fully in C++  
-   - Add a clean note for it in `Array/13_Stock_Problems.md`  
-   - Update your daily repo and LinkedIn.
-
-You’re doing amazing — this repo will become your personal DSA bible. Keep going! 💪
-
-[1](https://www.reddit.com/r/leetcode/comments/1f1b3fg/whats_the_best_language_for_leetcode/)
