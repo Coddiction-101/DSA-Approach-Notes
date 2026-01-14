@@ -1,6 +1,3 @@
-Here’s the ready‑to‑copy content for `Array/06_Sliding_Window.md` — clean, simple, and focused on what matters for interviews.
-
-```markdown
 > 🔢 **Pattern: Array – Sliding Window**  
 > Fixed size (max sum subarray of size k), variable size (min size subarray sum, subarray product less than k).
 
@@ -130,4 +127,4 @@ int numSubarrayProductLessThanK(vector<int>& nums, int k) {
 - For counting subarrays with product < k:
   - Use sliding window and add `right - left + 1` for each valid `right`.  
 - Always handle edge cases: empty array, k <= 1, all elements zero.
-```
+  
