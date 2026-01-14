@@ -1,47 +1,57 @@
 # DSA Approach Notes 📚
 
-My personal DSA problem‑solving approach notes — patterns, templates, and key ideas for quick revision before interviews.
-
----
-
-## 🎯 Purpose
-
-- Store **problem patterns** (not code)  
-- Keep **approach, intuition, and takeaways**  
-- Quick revision before mock interviews and real interviews  
-- Build a **personal DSA cheat‑sheet**
+A structured, interview-focused collection of Data Structures and Algorithms notes, patterns, and problem-solving approaches.  
+Designed to help you **think in patterns**, not just memorize code.
 
 ---
 
 ## 📚 Structure
 
-- `Array/` — all array patterns (two‑pointer, sliding window, prefix sum, etc.)  
-- `Linked_List/` — LL basics, reverse, cycle, merge, etc.  
-- `Stack_Queue/` — stack/queue problems and patterns  
-- `Tree/` — tree traversals, LCA, BST, etc.  
-- `Graph/` — DFS, BFS, topological sort, Dijkstra, etc.  
-- `Hashing/` — two‑sum, group anagrams, etc.  
-- `DP/` — Fibonacci, knapsack, LCS, coin change, etc.  
-- `Templates/` — reusable templates for common patterns
+This repo is organized by **topic** and **pattern**, so you can quickly revise the core idea before jumping into problems.
+
+---
+
+## 🎯 Why This Repo?
+
+- **Pattern-first approach**: Each file teaches a **pattern** (e.g., Two Pointer, Sliding Window, Kadane) with minimal code and maximum intuition.  
+- **Interview-ready**: Focuses on what’s actually asked in coding interviews (LC Easy/Medium).  
+- **Quick revision**: Perfect for last-minute prep before mock interviews or real interviews.  
+- **Language-agnostic**: Concepts are explained in plain English; code is in C++ but easy to adapt.
 
 ---
 
 ## 📌 How to Use
 
-1. For each problem, write:
-   - Problem name and link  
-   - Intuition / idea  
-   - Key pattern used  
-   - Time & space complexity  
-   - Takeaway / what to remember
-
-2. Use this repo to:
-   - Revise before interviews  
-   - Quickly recall a pattern  
-   - Share with peers
+1. **Pick a topic** (e.g., `Array/`).  
+2. **Read the pattern files** in order (e.g., `01_Basics.md` → `05_Two_Pointer.md`).  
+3. **Solve problems** on LeetCode/Codeforces using that pattern.  
+4. **Revise** by quickly skimming the `.md` files before interviews.
 
 ---
 
-## 🔗 Main DSA Repo
+## 🧠 Core Patterns Covered
 
-👉 Daily C++ solutions: [https://github.com/Coddiction-101/DAILY-DSA-CPP](https://github.com/Coddiction-101/DAILY-DSA-CPP)
+- **Arrays**: Two Sum, Two Pointer, Sliding Window, Prefix Sum, Kadane, Rearrangement  
+- **Strings**: Palindrome, Anagram, Substring, Two Pointer  
+- **Linked Lists**: Reverse, Cycle Detection, Merge, Two Pointer  
+- **Stack & Queue**: Monotonic Stack, Queue, BFS  
+- **Trees**: Traversal, BST, DFS, BFS  
+- **Graphs**: DFS, BFS, Dijkstra, Union-Find  
+- **Dynamic Programming**: 1D, 2D, Knapsack, LIS  
+- **Greedy**: Activity Selection, Interval Problems
+
+---
+
+## 🚀 How to Contribute
+
+If you want to improve or extend this repo:
+
+1. Fork the repo.  
+2. Add/fix a pattern file (e.g., `Graph/05_Union_Find.md`).  
+3. Open a PR with a clear title and description.
+
+---
+
+## 📜 License
+
+MIT License – feel free to use, modify, and share.
