@@ -161,4 +161,3 @@ int maxProfit(vector<int>& prices, int fee) {
 - **Cooldown**: use three states (`hold`, `sold`, `rest`).  
 - **With Fee**: use two states (`hold`, `cash`) and subtract fee on sell.  
 - Always handle edge cases: empty array, single day.
-```
