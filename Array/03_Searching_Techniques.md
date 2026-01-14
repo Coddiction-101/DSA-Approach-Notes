@@ -1,7 +1,3 @@
-
-Here’s the ready‑to‑copy content for `Array/03_Searching_Techniques.md` — clean, simple, and interview‑focused.
-
-```markdown
 > 🔢 **Pattern: Array – Searching Techniques**  
 > Linear Search, Binary Search, First/Last Occurrence, Search in Rotated Array.
 
@@ -121,15 +117,3 @@ int binarySearch(vector<int>& nums, int target) {
 ```
 
 ***
-
-### ✅ How to Use
-
-1. Copy the content above.  
-2. In your `DSA-Approach-Notes` repo, go to:  
-   `Array/03_Searching_Techniques.md` → click the pencil (Edit) icon  
-3. Paste and commit.
-
-Once done, just say:  
-> “Done, Array/03_Searching_Techniques.md is updated.”
-
-and we’ll move to the next file or go back to solving **Best Time to Buy and Sell Stock II**. You’re doing great — keep this momentum! 💪
